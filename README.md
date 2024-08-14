@@ -1,5 +1,5 @@
 # SteamHostSync
-第一次用go写的项目，写的比较烂，欢迎大佬指出错误。
+本fork基于Clov614的第一次用go写的项目SteamHostSync。通过更改Source.yaml提供自用hosts。
 
 ## 1. 实现
 对Hosts进行一个新的更  

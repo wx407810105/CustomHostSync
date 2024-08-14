@@ -15,7 +15,7 @@ win + R 后执行 `shell:startup`
 将快捷方式复制进去即可  
 ![](/img/2.png)  
 ### 配置SwitchHosts实现自动更新  
-可选的URL有:
+下列为fork的Clov614的hosts同步可选的URL有:
 如果访问不到GitHub可以尝试将`github.com`替换为`hub.fastgit.xyz`(国内镜像)
 1. ALL: `https://raw.githubusercontent.com/Clov614/SteamHostSync/main/Hosts`  
 2. Steam: `https://raw.githubusercontent.com/Clov614/SteamHostSync/main/Hosts_steam`  

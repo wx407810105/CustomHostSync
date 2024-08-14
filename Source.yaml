@@ -47,7 +47,17 @@ platforms:
   - cdn.akamai.steamstatic.com
   - steam-chat.com
   - community.akamai.steamstatic.com
-- - Ubisoft_download
-  - static3.cdn.Ubi.com
-  - static2.cdn.Ubi.com
-  - static1.cdn.Ubi.com
+- - docker
+  - docker.com
+  - hub.docker.com
+  - docs.docker.com
+  - login.docker.com
+  - registry.hub.docker.com
+  - docker.io
+  - registry-1.docker.io
+  - index.docker.io
+- - cloudflare_jsdelivr
+  - cloudflare.com
+  - challenges.cloudflare.com
+  - jsdelivr.map.fastly.net
+  - fastly.jsdelivr.net

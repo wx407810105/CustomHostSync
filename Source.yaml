@@ -49,10 +49,12 @@ platforms:
   - community.akamai.steamstatic.com
 - - docker
   - docker.com
+  - auth.docker.io
   - hub.docker.com
   - docs.docker.com
   - login.docker.com
   - registry.hub.docker.com
+  - production.cloudflare.docker.com
   - docker.io
   - registry-1.docker.io
   - index.docker.io

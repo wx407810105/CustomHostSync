@@ -38,78 +38,78 @@ win + R 后执行 `shell:startup`
 
 ```
 #github Start
-140.82.112.26			alive.github.com
-140.82.112.26			live.github.com
-185.199.111.154			github.githubassets.com
-140.82.113.21			central.github.com
-185.199.110.133			desktop.githubusercontent.com
+140.82.114.26			alive.github.com
+140.82.114.25			live.github.com
+185.199.109.154			github.githubassets.com
+140.82.112.21			central.github.com
+185.199.108.133			desktop.githubusercontent.com
 ####			assets-cdn.github.com
 185.199.109.133			camo.githubusercontent.com
 185.199.108.133			github.map.fastly.net
-151.101.1.194			github.global.ssl.fastly.net
-140.82.112.4			gist.github.com
-185.199.111.153			github.io
-140.82.114.4			github.com
+151.101.65.194			github.global.ssl.fastly.net
+140.82.113.3			gist.github.com
+185.199.109.153			github.io
+140.82.114.3			github.com
 192.0.66.2			github.blog
-140.82.112.5			api.github.com
-185.199.109.133			raw.githubusercontent.com
-185.199.111.133			user-images.githubusercontent.com
-185.199.110.133			favicons.githubusercontent.com
-185.199.111.133			avatars5.githubusercontent.com
+140.82.113.5			api.github.com
+185.199.108.133			raw.githubusercontent.com
+185.199.109.133			user-images.githubusercontent.com
+185.199.108.133			favicons.githubusercontent.com
+185.199.109.133			avatars5.githubusercontent.com
 185.199.110.133			avatars4.githubusercontent.com
 185.199.111.133			avatars3.githubusercontent.com
-185.199.108.133			avatars2.githubusercontent.com
-185.199.110.133			avatars1.githubusercontent.com
-185.199.109.133			avatars0.githubusercontent.com
-185.199.109.133			avatars.githubusercontent.com
-140.82.112.10			codeload.github.com
-3.5.10.137			github-cloud.s3.amazonaws.com
-52.217.223.25			github-com.s3.amazonaws.com
-3.5.28.152			github-production-release-asset-2e65be.s3.amazonaws.com
-3.5.10.137			github-production-user-asset-6210df.s3.amazonaws.com
-52.217.32.92			github-production-repository-file-5c1aeb.s3.amazonaws.com
-185.199.110.153			githubstatus.com
-140.82.114.17			github.community
+185.199.111.133			avatars2.githubusercontent.com
+185.199.108.133			avatars1.githubusercontent.com
+185.199.111.133			avatars0.githubusercontent.com
+185.199.108.133			avatars.githubusercontent.com
+140.82.114.9			codeload.github.com
+54.231.194.161			github-cloud.s3.amazonaws.com
+16.182.100.121			github-com.s3.amazonaws.com
+3.5.28.70			github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.89.140			github-production-user-asset-6210df.s3.amazonaws.com
+3.5.29.228			github-production-repository-file-5c1aeb.s3.amazonaws.com
+185.199.111.153			githubstatus.com
+140.82.113.18			github.community
 52.224.38.193			github.dev
-185.199.110.133			media.githubusercontent.com
+185.199.109.133			media.githubusercontent.com
 #github End
-# Last Update Time : 2025-07-12 09:54:12 
+# Last Update Time : 2025-07-12 20:40:37 
 
 #steam Start
-23.11.10.111			steamcommunity.com
-23.2.133.147			www.steamcommunity.com
-23.209.61.185			store.steampowered.com
-23.11.10.111			api.steampowered.com
-23.11.10.111			help.steampowered.com
-23.59.169.172			store.akamai.steamstatic.com
-23.54.76.12			steamcdn-a.akamaihd.net
-23.59.169.168			cdn.akamai.steamstatic.com
-23.2.133.147			steam-chat.com
-23.59.169.172			community.akamai.steamstatic.com
+23.49.176.119			steamcommunity.com
+104.86.83.41			www.steamcommunity.com
+23.221.137.201			store.steampowered.com
+23.49.176.119			api.steampowered.com
+23.49.176.119			help.steampowered.com
+104.96.221.59			store.akamai.steamstatic.com
+23.199.55.31			steamcdn-a.akamaihd.net
+104.96.221.66			cdn.akamai.steamstatic.com
+104.86.83.41			steam-chat.com
+104.96.221.51			community.akamai.steamstatic.com
 #steam End
-# Last Update Time : 2025-07-12 09:54:12 
+# Last Update Time : 2025-07-12 20:40:37 
 
 #docker Start
 23.185.0.4			docker.com
 44.208.254.194			auth.docker.io
-3.232.6.94			hub.docker.com
-18.160.200.81			docs.docker.com
-104.17.35.21			login.docker.com
-44.208.254.194			registry.hub.docker.com
+34.199.234.173			hub.docker.com
+18.160.10.27			docs.docker.com
+104.17.34.21			login.docker.com
+98.85.153.80			registry.hub.docker.com
 104.16.98.215			production.cloudflare.docker.com
-50.16.190.217			docker.io
+3.232.6.94			docker.io
 3.94.224.37			registry-1.docker.io
 44.208.254.194			index.docker.io
 #docker End
-# Last Update Time : 2025-07-12 09:54:12 
+# Last Update Time : 2025-07-12 20:40:37 
 
 #cloudflare_jsdelivr Start
 104.16.133.229			cloudflare.com
-104.18.95.41			challenges.cloudflare.com
+104.18.94.41			challenges.cloudflare.com
 151.101.129.229			jsdelivr.map.fastly.net
-151.101.129.229			fastly.jsdelivr.net
+151.101.193.229			fastly.jsdelivr.net
 #cloudflare_jsdelivr End
-# Last Update Time : 2025-07-12 09:54:13 
+# Last Update Time : 2025-07-12 20:40:37 
 
 #Github: https://github.com/Clov614/SteamHostSync
 

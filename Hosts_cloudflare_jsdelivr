@@ -1,8 +1,8 @@
 #cloudflare_jsdelivr Start
 104.16.133.229			cloudflare.com
 104.18.95.41			challenges.cloudflare.com
-151.101.1.229			jsdelivr.map.fastly.net
-151.101.129.229			fastly.jsdelivr.net
+151.101.193.229			jsdelivr.map.fastly.net
+151.101.65.229			fastly.jsdelivr.net
 #cloudflare_jsdelivr End
-# Last Update Time : 2025-07-25 09:55:14 
+# Last Update Time : 2025-07-25 20:47:24 
 
